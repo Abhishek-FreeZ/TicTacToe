@@ -1,1 +1,2 @@
-This is just a text file for testing
+My first Game 
+Tic Tac Toe
